@@ -1,3 +1,3 @@
-# this is my firts project
+# this is my first project
 ## hello there file
 more changes
